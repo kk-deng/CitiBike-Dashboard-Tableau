@@ -12,3 +12,7 @@ Tableau dashboard for NYC Citi Bike Data to analyze the popularity of starting a
 ## Stats of popular bike stations and peak hours
 
 <img src="https://github.com/kk-deng/CitiBike-Dashboard-Tableau/blob/main/Screenshot/Page2.png">
+
+## Location and popularity of bike stations
+
+<img src="https://github.com/kk-deng/CitiBike-Dashboard-Tableau/blob/main/Screenshot/Page3.png">
